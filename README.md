@@ -1,3 +1,5 @@
+[![CSV Validation](https://csvlint.io/validation/614248dbaff52c0004000081.svg)](https://github.com/DWB-eHealth/msfocp-source/blob/main/OCL_SourceImport_TestCases.csv)
+
 # MSF OCP Source
 MSFOCP concepts for OCL source
 

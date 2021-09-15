@@ -3,7 +3,7 @@ Concept,MSFOCP,OCL-CSV-Import-Test,,OCLCSV01,24e851ac-4ea4-4cdf-9963-f4concept00
 Concept,MSFOCP,OCL-CSV-Import-Test,,OCLCSV02,24e851ac-4ea4-4cdf-9963-f4concept0002,Concept with description,FULLY_SPECIFIED,,,,,,,,,,,,,,,,,,,,,,Misc,Text,Description of the concept,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Concept,MSFOCP,OCL-CSV-Import-Test,,OCLCSV03,24e851ac-4ea4-4cdf-9963-f4concept0003,Concept with French translation,FULLY_SPECIFIED,,Concept en français,FULLY_SPECIFIED,fr,,,,,,,,,,,,,,,,,,Misc,Text,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Concept,MSFOCP,OCL-CSV-Import-Test,,OCLCSV04,24e851ac-4ea4-4cdf-9963-f4concept0004,Concept with synonym,FULLY_SPECIFIED,,,,,,,,,,,,,,,,,,Concept synonym,SYNONYM,,,Misc,Text,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Concept,MSFOCP,OCL-CSV-Import-Test,,OCLCSV05,24e851ac-4ea4-4cdf-9963-f4concept0005,Concept with shortname,FULLY_SPECIFIED,,,,,,,,,,,,,,,,,,Concept shortname,SHORT,,,Misc,Text,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Concept,MSFOCP,OCL-CSV-Import-Test,,OCLCSV05,24e851ac-4ea4-4cdf-9963-f4concept0005,Concept with shortname,FULLY_SPECIFIED,,,,,,,,,,,,,,,,,,Concept shortname,SHORT,,,Misc,Text,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Concept,MSFOCP,OCL-CSV-Import-Test,,OCLCSV06,24e851ac-4ea4-4cdf-9963-f4concept0006,Concept with shortname and synonym,FULLY_SPECIFIED,,,,,,,,,,,,,,,,,,Concept synonym,SYNONYM,Concept shortname,SHORT,Misc,Text,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Concept,MSFOCP,OCL-CSV-Import-Test,,OCLCSV07,24e851ac-4ea4-4cdf-9963-f4concept0007,Numeric concept with decimals,FULLY_SPECIFIED,,,,,,,,,,,,,,,,,,,,,,Misc,Numeric,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,
 Concept,MSFOCP,OCL-CSV-Import-Test,,OCLCSV08,24e851ac-4ea4-4cdf-9963-f4concept0008,Numeric concept with units,FULLY_SPECIFIED,,,,,,,,,,,,,,,,,,,,,,Misc,Numeric,,,,,ml,,,,,,,,,,,,,,,,,,,,,,,
